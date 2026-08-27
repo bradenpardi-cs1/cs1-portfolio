@@ -1,5 +1,5 @@
 # cs1-portfolio
-Projects completed in Computer Science 1
+Projects completed in Computer Science I
 
 My name is Braden Pardi. This portfolio includes projects I completed in Computer Science I.
 
