@@ -21,4 +21,4 @@ This is my first Python program. It prints a message to the screen.
 - Add comments 
 
 ## Author 
-Created by Braden Pardi as part of my Computer Science I coursework 
+Created by Braden Pardi as part of my Computer Science I coursework.
